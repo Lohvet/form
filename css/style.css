@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.register{
+    background-image: url(laptop.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding: 2%;
+    justify-content: center;
+    border-radius: 15px;
+}
+.register-left{
+    margin: 4%;
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+}
+.register-left h2{
+    font-size: 43px;
+    font-family: fantasy;
+    letter-spacing: 3px;
+}
+h4{
+    font-family: cursive;
+}
+hr{
+    background-color: white;
+}
+.register-right h2{
+    font-family: fantasy;
+    font-size: 35px;
+    letter-spacing: 2px;
+    color: white;
+    margin-top: 14px;
+    text-align: center;
+}
+.register-right{
+    box-shadow: -1px 1px 60px 10px black;
+    background: rgba(0, 0, 0, 0.4);
+    margin-left: 3%;
+    border-radius: 15px;
+}
+.form-group{
+    padding: 8px;
+    font-family: cursive;
+}
+input{
+    margin: 8px 0;
+}
+.form-control{
+    background: transparent;
+    border-radius: 6px;
+    font-family: cursive;
+}
+small{
+    color: white;
+    padding: 2px;
+}
+.my-col{
+    color: white;
+    font-family: monospace;
+    padding-top: 5px;
+}
+.up{
+    color: white;
+}
+.my-col5{
+    margin-top: 10px;
+}
